@@ -1,4 +1,4 @@
 # backgammon
 
 
-Simple 2 player backgammon game against an AI using simple min max strategy.
+Simple two-player backgammon game against an AI using a simple min-max strategy.
